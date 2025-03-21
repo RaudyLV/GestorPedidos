@@ -6,7 +6,6 @@ Bienvenido a mi primer proyecto de simulación de un E-commerce. Este es mi prim
 
 Este proyecto simula las funcionalidades básicas de un E-commerce. Incluye:
 - Catálogo de productos.
-- Carrito de compras.
 - Proceso de pago simulado.
 
 > Nota: Este proyecto aún está en desarrollo. Muchas funcionalidades están en construcción y se agregarán en futuras versiones.
@@ -18,7 +17,6 @@ Decidí compartir este proyecto porque quería tener algo en mi repositorio que 
 ## Características
 
 - **Simulación de catálogo:** Visualización de productos con sus respectivas descripciones.
-- **Carrito de compras:** Permite agregar y quitar productos de manera dinámica.
 - **Proceso de pago simulado:** Implementación básica de flujo de pago (sin integración real de pasarelas de pago).
 
 ## Próximas Mejoras
@@ -27,3 +25,4 @@ Decidí compartir este proyecto porque quería tener algo en mi repositorio que 
 - Implementación de autenticación de usuarios.
 - Procesos de validación y manejo de errores.
 - Mejora en el diseño y usabilidad.
+- Carrito de compras
